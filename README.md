@@ -16,3 +16,7 @@ I build a clean and responsive Login & Signup UI using Flutter. The code is stru
 1. Clone the repository.
 2. Run `flutter pub get` to fetch dependencies.
 4. Run the app on your emulator or device.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](login_signup_ui/license) file for details.
