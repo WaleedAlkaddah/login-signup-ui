@@ -1,2 +1,6 @@
-*.dart linguist-detectable=true
-*.* linguist-vendored=false
+*.dart linguist-language=Dart
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.cc linguist-vendored
+*.c linguist-vendored
+*.hpp linguist-vendored
