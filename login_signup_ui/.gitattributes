@@ -6,5 +6,4 @@
 *.hpp linguist-vendored
 CMakeLists.txt linguist-vendored
 *.cmake linguist-vendored
-android/** linguist-vendored
-ios/** linguist-vendored
+
